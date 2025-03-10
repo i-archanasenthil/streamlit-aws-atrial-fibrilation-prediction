@@ -1,4 +1,7 @@
-Scenario : Creating an application to predict whether the person is at risk for AF
+# Functional Design Specification Document
+
+## Scenario:
+Creating an application to predict whether the person is at risk for AF
 
 Description : The doctor / medical examiner should be able to input values like the Age, Gender, ECG readings, History of Diseases, Medications and behavioural information.
 
