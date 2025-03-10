@@ -62,7 +62,7 @@
           
 *Sample : 0, 1 , 00, 01, e, 2*
 
-**6) MEdications value has to be a boolean value 0 or 1 for he presence / absence of a particular condition**
+**6) Medications value has to be a boolean value 0 or 1 for he presence / absence of a particular condition**
 
 **Testing:**
 
