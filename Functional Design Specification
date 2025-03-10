@@ -42,5 +42,5 @@ Testing : 1) Should be numeric
           2) Readings should be within a year before to 6 months afer date of index of 12 lead ECG
 Sample : 
 
-Link to the metadata : 
+Link to the metadata : https://github.com/i-archanasenthil/streamlit-aws-atrial-fibrilation-prediction/blob/main/data_dictionary.csv
 For each specification the following testing has to be done -> unit testing, integration testing, negative testing, stress testing, user validation testing.
