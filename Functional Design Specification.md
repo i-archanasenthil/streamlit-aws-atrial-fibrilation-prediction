@@ -22,7 +22,7 @@
 **3) The sex of he patient assigned at borth should be male or female from the drop down**
 **Testing:** 1) should not accept other characters 
           2) Cannot be numbers 
-*Sampke : T, 1 *
+*Sampke : T, 1, 3 *
 
 **4) The ECG Readings values should be numeric and greater than 0**
 **Testing:** 1) Adding a negative value
