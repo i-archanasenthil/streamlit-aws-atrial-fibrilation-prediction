@@ -1,6 +1,6 @@
 **Scenario:** Developing an application to predict the risk of atrial fibrillation (AF) in individuals.
 
-## Functional Requirements:
+### Functional Requirements:
 
 **Data:**
 
