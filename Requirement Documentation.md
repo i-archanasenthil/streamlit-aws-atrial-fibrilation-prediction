@@ -1,6 +1,8 @@
 **Scenario:** Developing an application to predict the risk of atrial fibrillation (AF) in individuals.
 
-## Data Requirements:
+## Functional Requirements:
+
+**Data:**
 
 Previous historical data is needed to help train a deep learning neural network model using pytorch or tensor flow to predict the likelihood of a person to experience Atrial Fibrilation 
 
@@ -14,9 +16,7 @@ A data from the SSC society has been generated with baseline ECG reading and med
 
 Link to the metadata: https://github.com/i-archanasenthil/streamlit-aws-atrial-fibrilation-prediction/blob/main/data_dictionary.csv
     
+**Applications/ Software:**
 
-2) Identifying the EC2 instance parameters 
-  - memory
-  - security 
-
-3) Streamlit
+Google Colab **Jupter Notebook** with python **version Python 3.11.11** to facilitate building a deep learning model.
+**Amazon Web Services** user credentials with **EC2 instance and s3 storage** bucket with enough compute power to run the deep learning model by atleast 1000 users at the same time and generate graphs and dashboards for the **web application** through Streamliy
