@@ -19,4 +19,9 @@ Link to the metadata: https://github.com/i-archanasenthil/streamlit-aws-atrial-f
 **Applications/ Software:**
 
 Google Colab **Jupter Notebook** with python **version Python 3.11.11** to facilitate building a deep learning model.
-**Amazon Web Services** user credentials with **EC2 instance and s3 storage** bucket with enough compute power to run the deep learning model by atleast 1000 users at the same time and generate graphs and dashboards for the **web application** through Streamliy
+
+**Amazon Web Services** user credentials with **EC2 instance** with enough compute power to run the deep learning model by atleast 1000 users at the same time and generate graphs and dashboards for the **web application** through Streamlit.
+
+**s3 storage bucket** to help store the results of the data entered for the patient and also to utilize the graphs, dashboards for our analysis.
+
+
